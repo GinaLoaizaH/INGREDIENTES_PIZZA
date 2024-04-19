@@ -9,6 +9,8 @@ public class Main {
         String ingrediente2 = "Jamón";
         String ingrediente3 = "Pimentón";
 
-        // 3 ingredientes por participante =
+        // 3 ingredientes por participante = Manuela
+
+        String ingrediente4 = "Sal de ajo";
     }
 }
