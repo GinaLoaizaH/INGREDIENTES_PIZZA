@@ -12,5 +12,10 @@ public class Main {
         // 3 ingredientes por participante = Manuela
 
         String ingrediente4 = "Sal de ajo";
+
+        // 3 ingredientes por participante = STEFANI
+        String ingrediente5 = "Piña";
+        String ingrediente6 = "Pollito";
+        String ingrediente7 = "Cebolla";
     }
 }
